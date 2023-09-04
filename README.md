@@ -1,5 +1,5 @@
 <!-- 프로젝트 로고 -->
-# RE:ON 연기 연습 플랫폼📸
+# RE:ON 연기 연습 플랫폼 📸
 
 <div align=center>
 
@@ -8,7 +8,7 @@
 
 :alarm_clock: 프로젝트 기간  : 2023-07-04 ~ 2023-08-18
 
-## [RE:ON](https://i9c203.p.ssafy.io/) :film_frames:
+## [RE:ON](https://i9c203.p.ssafy.io/) 📽️
 연기를 쉽고 재밌게!!:cool: <br>
 
 </div>
