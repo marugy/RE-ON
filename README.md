@@ -119,7 +119,7 @@ SNS와 유튜브 등에서 밈과 성대모사가 활발하게 퍼져나가고 �
 - ![taskdescribe](./assets/AI/AI_task_describe.png)
 
 
-- AI 모델 설정과 학습에 대한 상세한 설명은 [Chorong.md](https://lab.ssafy.com/s09-webmobile1-sub2/S09P12C203/-/blob/dev/Chorong.md).
+- AI 모델 설정과 학습에 대한 상세한 설명은 [Chorong.md](/Chorong.md).
 
 # API 연동 규격서 
 https://i9c203.p.ssafy.io/swagger-ui/index.html#/
