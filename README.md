@@ -131,10 +131,12 @@ https://i9c203.p.ssafy.io/swagger-ui/index.html#/
 # 개발 스택🔧
 
 ## Frontend
-![frontend](./assets/images/REON_FRONTEND.PNG){: width="600" height=""}
+
+![frontend](./assets/images/REON_FRONTEND.PNG)
 
 ## Backend
-![backend](./assets/images/REON_BACKEND.PNG){: width="600" height=""}
+
+![backend](./assets/images/REON_BACKEND.PNG)
 
 ## Infra
 
@@ -146,7 +148,8 @@ https://i9c203.p.ssafy.io/swagger-ui/index.html#/
 
 ## Tool
 
-![tool](./assets/images/REON_TOOL.PNG){: width="500" height=""}
+![tool](./assets/images/REON_TOOL.PNG)
+
 
 # 팀원소개 🤝
 
